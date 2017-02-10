@@ -1,0 +1,10 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "database":{
+    "url": "postgres://bztwplptyzlunx:757438c3bc723d42c84be493d73203bb496930e04de4e17eb40537609efec892@ec2-23-23-212-121.compute-1.amazonaws.com:5432/dcqh43d87ar3qd?sslmode=require",
+    "connector":"postgresql"
+  }
+}
